@@ -1,0 +1,7 @@
+{
+  "purpose": "Personal Knowledge Management",
+  "trailingSlash": "never",
+  "wikilinkDefinitions": "withExtensions",
+  "newNotesFolder": "inbox",
+  "templateFolder": "templates"
+}
